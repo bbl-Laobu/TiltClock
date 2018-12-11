@@ -4,9 +4,9 @@
              xmlns:local="clr-namespace:TiltClock"
              x:Class="TiltClock.MainPage">
 
-    <StackLayout>
+    <StackLayout BackgroundColor="WhiteSmoke">
         <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
+        <Label Text="Welcome to Xamarin.Forms again!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
     </StackLayout>
